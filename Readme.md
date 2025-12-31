@@ -73,3 +73,20 @@ It is designed to run unattended, execute during a configurable daily window, an
 - Uses defensive programming patterns
 - Sanitized SQL queries for safe public sharing
 - Shows how to build tabular text reports using `StringBuilder`
+
+🔒 Read‑Only Usage Notice
+This repository is provided solely for evaluation by potential employers.
+You may view and review the code to assess engineering ability.
+
+All other actions are not permitted, including:
+
+Reuse or modification
+Redistribution or publication
+Integration into any software
+Commercial or operational use
+Automation of any real‑world systems
+A full license file in this repository reinforces these restrictions.
+
+📌 Notes
+This code is intentionally incomplete and non‑functional.
+Its purpose is to demonstrate architecture, coding style, and automation expertise, not to operate against any real software.
