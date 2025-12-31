@@ -2,8 +2,7 @@
 ' Production Metrics Reporter Windows Service
 ' Language: VB.NET (.NET Framework)
 ' Purpose:  Monitors system metrics and sends automated reports
-' Author:   [Your Name]
-' GitHub:   https://github.com/[your-username]
+' Author:   [Jags]
 ' ===============================================================================
 '
 ' Demonstrates:
@@ -141,4 +140,5 @@ Public Class MetricsSummary
     Public Property TotalProcessed As Integer
     Public Property SuccessCount As Integer
     ' Additional properties as needed
+
 End Class
